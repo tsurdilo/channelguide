@@ -1,0 +1,15 @@
+# build directories
+/target
+/build
+/dist
+
+# Macintosh files
+**/**/.DS_Store
+.DS_Store
+
+# IDE/Eclipse settings
+/.project
+/.classpath
+/.settings
+/.externalToolBuilders
+
